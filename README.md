@@ -1,4 +1,4 @@
-# 💫 À propos de moi:
+# 💫 À propos de moi
 Étudiant en cycle d’ingénieur IT, je me spécialise en développement Full Stack avec une forte orientation « software & systèmes d’information ». <br>Passionné par la conception et l’optimisation d’applications web et logicielles, je développe une solide expertise aussi bien en front-end (HTML, CSS, JavaScript et frameworks modernes) qu’en back-end (Java, Node.js, C, C#, Kotlin, .NET, Python et bases de données). <br>Curieux, rigoureux et force de proposition, j’aime travailler en équipe et mener un projet de la phase d’analyse jusqu’à la mise en production.<br>Actuellement à la recherche d’une alternance sur Bordeaux, je suis prêt à m’investir pleinement pour accompagner votre entreprise dans ses défis technologiques. <br>N’hésitez pas à me contacter pour échanger !
 
 
