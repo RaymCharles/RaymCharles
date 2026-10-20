@@ -1,5 +1,5 @@
 # 💫 À propos de moi
-Étudiant en cycle d’ingénieur IT, je me spécialise en développement Full Stack avec une forte orientation « software & systèmes d’information ». <br>Passionné par la conception et l’optimisation d’applications web et logicielles, je développe une solide expertise aussi bien en front-end (HTML, CSS, JavaScript et frameworks modernes) qu’en back-end (Java, Node.js, C, C#, Kotlin, .NET, Python et bases de données). <br>Curieux, rigoureux et force de proposition, j’aime travailler en équipe et mener un projet de la phase d’analyse jusqu’à la mise en production.
+Étudiant en dernière année du cycle d’ingénieur **Logiciels & Systèmes d’Information à l’EFREI Bordeaux** et développeur logiciel en alternance chez **CGI**, je développe mes compétences en ingénierie logicielle, développement full-stack et DevOps. <br>Passionné par les nouvelles technologies, je m’intéresse particulièrement à **l’intelligence artificielle, au Machine Learning, aux systèmes agentiques et à l’automatisation**, domaines vers lesquels je souhaite progressivement orienter mon parcours. <br>Curieux, autonome et rigoureux, j’aime concevoir des solutions concrètes, explorer de nouvelles technologies et contribuer à des projets innovants, de leur conception jusqu’à leur mise en production.
 
 
 ## 🌐 Réseaux sociaux:
